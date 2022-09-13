@@ -7,8 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>规啊规啊</h1>
-	<h1>规啊规啊</h1>
+	<h1>index !!</h1>
+	<a href="a.jsp">a jsp</a>
+	<a href="b.jsp">b jsp</a>
+	<a href="c.jsp">c jsp</a>
 	
 </body>
 </html>
