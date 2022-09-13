@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
- <h2> È«ÇöÁ¤ B.jsp </h2>
+ <h2> È«ÇöÁ¤ B.jsp ~~</h2>
 </body>
 </html>
