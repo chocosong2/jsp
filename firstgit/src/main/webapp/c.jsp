@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>c¿‘¥œ¥Ÿ</h1>
-<h1>c jinsook123</h1>
-<h1>tiger211</h1>
+	<h1>jinsook c page</h1>
 </body>
 </html>
