@@ -8,6 +8,9 @@
 </head>
 <body>
 <h1>index</h1>
+<a href="a.jsp">a page</a>
+<a href="b.jsp">b page</a>
+<a href="c.jsp">c page</a>
 
 </body>
 </html>
