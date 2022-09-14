@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>jinsook c page</h1>
-	<h1>수정</h1>
+	<h1>수정</h1><!-- 수정한 부분 -->
 </body>
 </html>
