@@ -10,6 +10,7 @@
 <a href="a.jsp">a</a>
 <a href="b.jsp">b</a>
 <a href="c.jsp">c</a>
+<h1>index</h1>
 
 </body>
 </html>
